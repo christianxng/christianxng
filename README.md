@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Christian Rodrigues Moura. I work as a Jr Java Developer at [Zup Innovation](https://www.zup.com.br).
+My name is Christian Rodrigues Moura. I work as a Jr Java Developer at ![Zup Innovation](https://www.zup.com.br).
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=christianxng&repo=christianxng&countColorcountColor)
 
