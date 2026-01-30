@@ -1,12 +1,10 @@
-# Hello World! 👋
+## Christian Rodrigues Moura 👋
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=christianxng&repo=christianxng&countColorCountColor)
-
-Meu nome é **Christian Rodrigues Moura**. Atuo como **Engenheiro de Software Senior Backend** no **Grupo Boticário**, onde contribuo para a construção de soluções robustas e escaláveis na área de pagamentos.
+Atuo como **Engenheiro de Software Senior Backend** no **Grupo Boticário**, onde contribuo para a construção de soluções robustas e escaláveis na área de pagamentos.
 
 Atualmente, estou focado no desenvolvimento de um **gateway de pagamento**, implementando produtos como **PIX** e **boleto bancário**, com forte experiência em **arquitetura de microsserviços**.
 
-## 💼 Experiência Atual
+### 💼 Experiência Atual
 
 🏢 **Grupo Boticário** - Engenheiro de Software Senior Backend  
 💳 **Projeto:** Gateway de Pagamento (PIX e Boleto Bancário)
@@ -17,49 +15,68 @@ Atualmente, estou focado no desenvolvimento de um **gateway de pagamento**, impl
 - Construção e entrega de demandas seguindo/otimizando calendários propostos
 - Forte experiência com arquitetura de microsserviços
 
-## 🛠️ Languages & Tools
+### 🛠️ Linguagens & Frameworks
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-051122?style=flat&color=7F52FF)
-![Java](https://img.shields.io/badge/-JAVA-051122?style=flat&color=green)
-![TypeScript](https://img.shields.io/badge/-TypeScript-051122?style=flat&color=green)
-![JavaScript](https://img.shields.io/badge/-JavaScript-051122?style=flat&color=green)  
-![Spring](https://img.shields.io/badge/-Spring-051122?style=flat&color=orange)
-![NodeJs](https://img.shields.io/badge/-NodeJs-051122?style=flat&color=orange)  
-![](https://img.shields.io/badge/--051122?style=flat&color=gray)  
-![Postgres](https://img.shields.io/badge/-Postgres-051122?style=flat&color=yellow)
-![MySql](https://img.shields.io/badge/-MySql-051122?style=flat&color=yellow)
-![MongoDB](https://img.shields.io/badge/-MongoDB-051122?style=flat&color=yellow)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-051122?style=flat&color=yellow)  
-![Kafka](https://img.shields.io/badge/-Kafka-051122?style=flat&color=blue)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-051122?style=flat&color=blue)
-![SNS/SQS](https://img.shields.io/badge/-SNS/SQS-051122?style=flat&color=blue)  
-![AWS](https://img.shields.io/badge/-AWS-051122?style=flat&color=orange)
-![Docker](https://img.shields.io/badge/-Docker-051122?style=flat&color=blue)
+<div style="display: inline_block">
+  <img align="center" alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
 
-**Serviços AWS:** S3 • SQS • SNS • EKS • ECS • VPC • IAM • Lambda • ECR • RDS 
+### 🗄️ Bancos de Dados
 
-## 🎓 Certificações
+<div style="display: inline_block">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="DynamoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg">
+</div>
 
-☁️ **AWS Certified Cloud Practitioner**
+### ☁️ Cloud & DevOps
 
-## 🏗️ Expertise
+<div style="display: inline_block">
+  <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Kafka" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+</div>
+
+**Serviços AWS:** S3 • SQS • SNS • EKS • ECS • VPC • IAM • Lambda • ECR  
+**Mensageria:** Kafka • RabbitMQ • SNS • SQS
+
+### 🔧 Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Postman" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img align="center" alt="Insomnia" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
+</div>
+
+**Outras ferramentas:** DBeaver • ConfigCat
+
+### 📊 Observabilidade
+
+<div style="display: inline_block">
+  <img align="center" alt="Grafana" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+  <img align="center" alt="Prometheus" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
+</div>
+
+**Stack completa:** Grafana • Prometheus • Loki • Alert Manager • New Relic
+
+### 🏗️ Expertise
 
 - Arquitetura de Microsserviços
-- Design de Sistemas Distribuídos  
+- Design de Sistemas Distribuídos
 - Documentação de Arquitetura
 - Padrões de Design e Boas Práticas
 - Pagamentos (PIX, Boleto, Cartões)
 
-## 📊 Analytics
+### 🎓 Certificações
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christianxng&layout=compact&count_private=true)
+☁️ **AWS Certified Cloud Practitioner**
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=christianxng&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=christianxng&hide_border=true)
-
-## 📫 Let's connect?
+### 📫 Contato
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-r-moura/)
-
----
